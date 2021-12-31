@@ -1,1 +1,1 @@
-# microservices-example-django-react-rabbitmq
+# microservices-example-django-backend
